@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anepatil
+- 👋 Hi, I’m Aneesh
 - 👀 I’m interested in web dev and data analysis
 - 🌱 I’m currently learning Javascript, SQL
 - 💞️ I’m looking to collaborate on web dev projects
